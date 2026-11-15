@@ -26,7 +26,7 @@ netlify.toml            postavke za Netlify
 1. Na GitHubu napravite novi repozitorij (npr. `am-mocic-web`) i učitajte sve datoteke iz ove mape.
 2. Na netlify.com odaberite **Add new site → Import an existing project → GitHub** i zatim taj repozitorij.
 3. Build command ostavite prazan, a za publish directory upišite `.`. Kliknite **Deploy**.
-4. Domenu (npr. aemocic.hr) povežete u **Domain management → Add a domain**.
+4. Domenu (npr. am-mocic.hr) povežete u **Domain management → Add a domain**.
 
 ## Upiti na e-mail (Netlify Forms)
 
@@ -34,7 +34,7 @@ Forma „Pošalji upit” šalje upit preko Netlify Forms. Za to ne treba poseba
 
 1. Na Netlifyju otvorite **Forms → Enable form detection**, a zatim ponovno objavite stranicu (**Deploys → Trigger deploy**).
 2. U popisu formi pojavit će se forma `upit`.
-3. Otvorite **Site configuration → Notifications → Emails and webhooks → Form submission notifications → Add notification → Email notification**, upišite adresu (npr. `admir.mocic@aemocic.hr`) i odaberite formu `upit`.
+3. Otvorite **Site configuration → Notifications → Emails and webhooks → Form submission notifications → Add notification → Email notification**, upišite adresu (npr. `admir.mocic@am-mocic.hr`) i odaberite formu `upit`.
 
 Svaki upit stiže na mail s ovim podacima: proizvod, odabrane opcije (dimenzija, izvedba, boja…), ime, telefon, e-mail, mjesto i poruka.
 Besplatni Netlify paket uključuje 100 upita mjesečno.
