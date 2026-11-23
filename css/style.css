@@ -111,7 +111,7 @@ section{padding:90px 0}
 .contact p{color:#C5CCD8}
 .contact-list{list-style:none;display:grid;gap:18px}
 .contact-list li{display:flex;gap:16px;align-items:flex-start;border-bottom:1px solid rgba(199,154,107,.25);padding-bottom:16px}
-.contact-list span{color:var(--gold);font-size:11px;letter-spacing:2.5px;text-transform:uppercase;min-width:90px;padding-top:3px}
+.contact-list span{color:var(--gold);font-size:11px;letter-spacing:2.5px;text-transform:uppercase;min-width:112px;padding-top:3px}
 .contact-list a:hover{color:var(--gold-light)}
 
 /* Footer */
